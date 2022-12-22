@@ -1,0 +1,15 @@
+[submodule "JS-Advanced"]
+	path = JS-Advanced
+	url = https://github.com/chavdar12/JS-Advanced.git
+[submodule "JS-Applications"]
+	path = JS-Applications
+	url = https://github.com/chavdar12/JS-Applications.git
+[submodule "JS-Back-End"]
+	path = JS-Back-End
+	url = https://github.com/chavdar12/JS-Back-End.git
+[submodule "HTML-and-CSS"]
+	path = HTML-and-CSS
+	url = https://github.com/chavdar12/HTML-and-CSS.git
+[submodule "Angular-SoftUni"]
+	path = Angular-SoftUni
+	url = https://github.com/chavdar12/Angular-SoftUni.git
